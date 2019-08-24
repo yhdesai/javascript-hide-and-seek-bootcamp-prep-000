@@ -23,4 +23,4 @@ function increaseRankBy(n) {
     var last = picard.length -1;
         return picard[last];
 
- } 
+ }
